@@ -1,0 +1,27 @@
+body{
+    background:rgb(235, 210, 210) ;
+
+}
+table{
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    table-layout: fixed;
+}
+table,tr,th,td{
+    padding: 20px;
+    color: palevioletred;
+    border: 1px solid palevioletred;
+    border-collapse: collapse;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: (top,rgb(3, 3, 3) 0%,palevioletred  50%);
+}
+td:hover{
+    background:black ;
+}
+h1{
+    text-align: center;
+    color: palevioletred;
+    padding-top: 10%;
+}
